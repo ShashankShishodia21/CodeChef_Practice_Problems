@@ -1,7 +1,5 @@
 #include <stdio.h>
-
 int main(void) {
-	
 	int t,x,y,a;
 	scanf("%d",&t);
 	while(t--){
